@@ -1,5 +1,5 @@
 # Lab1
 
-Postlab Assignment 1 Video: 
+Postlab Assignment 1 Video: https://drive.google.com/file/d/1iqRNFL-hVKQ2pI9C1iVtl7xizXQ7ndGC/view?usp=drive_link
 
-Postlab Assignment 2 Video: 
+Postlab Assignment 2 Video: https://drive.google.com/file/d/17c4NH__2rct0Aje_Za-0UaltGlSSzDZM/view?usp=drive_link
