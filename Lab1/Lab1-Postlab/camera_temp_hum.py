@@ -66,10 +66,8 @@ while True:
 
     humidity=sense.get_humidity()
     
-    # print("Diff", abs(first_temperature - temperature), (abs(first_humidity - humidity)))
-    print("Diff", abs(first_temperature - temperature))
-    # if abs(first_temperature - temperature) > epsilon or (abs(first_humidity - humidity) > epsilon):
-    if abs(first_temperature - temperature) > epsilon:
+    print("Diff", abs(first_temperature - temperature), (abs(first_humidity - humidity)))
+    if abs(first_temperature - temperature) > epsilon or (abs(first_humidity - humidity) > epsilon):
 
         picam2.start()
         while True:
